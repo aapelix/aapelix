@@ -1,7 +1,8 @@
 # About Me
 
 ![Aapelix's GitHub stats](https://github-readme-stats.vercel.app/api?username=aapelix&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aapelix)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aapelix)](https://github.com/anuraghazra/github-readme-stats&theme=radical)
 
 ## Introduction
 

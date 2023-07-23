@@ -1,4 +1,8 @@
 # About Me
+
+![Aapelix's GitHub stats](https://github-readme-stats.vercel.app/api?username=aapelix&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aapelix)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Introduction
 
 Hello! I am a passionate programmer dedicated to creating open-source tools. I thrive on the joy of building software solutions that solve real-world problems and contribute to the developer community. With a strong foundation in programming languages and a commitment to open-source principles, I am constantly exploring new technologies and striving to make a positive impact in the software development landscape.

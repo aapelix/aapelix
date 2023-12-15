@@ -21,4 +21,4 @@ Looking ahead, I am excited to continue my journey as an open-source enthusiast 
 
 I am always open to connecting with fellow developers, discussing new ideas, and exploring potential collaborations. Feel free to reach out to me through hello@aapelix.dev email, and let's join forces to build a brighter future for open-source software development!
 
-(Thanks to ChatGPT for this text ❤️)
+(Thanks to ChatGPT for this text ☠️)

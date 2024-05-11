@@ -7,4 +7,4 @@
 
 > I like to make products only with black & white
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aapelix&hide_progress=true&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aapelix&hide_progress=true&theme=dark)

@@ -1,3 +1,1 @@
-<a href="https://github.com/aapelix">
-<img src="https://github.com/aapelix/aapelix/blob/main/contributions.svg" />
-</a>
+<a href='https://github.com/aapelix' ><img src='https://svgshare.com/i/1AvN.svg' title='aapelix-gh-snakw' /></a>

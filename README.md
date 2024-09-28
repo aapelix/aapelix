@@ -1,1 +1,1 @@
-<img src="contributions.svg" />
+<img src="https://github.com/aapelix/aapelix/blob/main/contributions.svg" />
